@@ -1,0 +1,10 @@
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.pdb
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.pdb
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
+c:\users\maaguilar\documents\visual studio 2013\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+C:\Users\maaguilar\Documents\Visual Studio 2013\Projects\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.exe
+C:\Users\maaguilar\Documents\Visual Studio 2013\Projects\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.exe
