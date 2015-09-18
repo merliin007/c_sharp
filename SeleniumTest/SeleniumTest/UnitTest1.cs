@@ -3,7 +3,6 @@ using System.Threading;
 using System.Text;
 using System.Collections;
 using OpenQA.Selenium;
-//using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 
 
@@ -15,6 +14,7 @@ namespace SeleniumTest
 
          public static void Main(string[] args)
          {
+             /*
              using (var driver = new OpenQA.Selenium.Firefox.FirefoxDriver())
              {
                  // Go to the home page
@@ -41,7 +41,14 @@ namespace SeleniumTest
                  Thread.Sleep(1000);                
                  driver.Quit();
              }
+             */
+             runManageWebSite();
+         }
 
+         public static void runManageWebSite()
+         {
+             SymcManage run = new SymcManage();
+             run.browsePage("https://manage.qa.archivecloud.net");
          }
                   
      }
